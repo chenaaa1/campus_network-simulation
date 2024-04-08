@@ -1,2 +1,2 @@
 # campus_network-simulation
-校园网仿真项目，利用了Ipsce_vpn和ospf和防火墙技术
+基于ENSP的校园网仿真项目，利用了Ipsce_vpn和ospf和防火墙技术
